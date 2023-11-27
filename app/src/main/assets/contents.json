@@ -1,0 +1,1503 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "Smilies1",
+      "name": "Smilies 1",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "GrinningFace.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Angry Face with Horns.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Angry Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Anguished Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Anxious Face with Sweat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Astonished Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Beaming Face with Smiling Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Cold Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Confounded Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Confused Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Cowboy Hat Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Crying Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Disappointed Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Disguised Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Dotted Line Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Downcast Face with Sweat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Drooling Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Enraged Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Exploding Head.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face Blowing a Kiss.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face Exhaling.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face Holding Back Tears.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face Savoring Food.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face Screaming in Fear.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face Vomiting.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face in Clouds.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Crossed-Out Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Diagonal Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Hand Over Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Head-Bandage.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Smilies2",
+      "name": "Smilies 2",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "GrinningFace.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Face Without Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Medical Mask.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Monocle.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Open Eyes and Hand Over Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Open Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Peeking Eye.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Raised Eyebrow.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Rolling Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Spiral Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Steam From Nose.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Symbols on Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Tears of Joy.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Thermometer.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Face with Tongue.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Fearful Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Flushed Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Frowning Face with Open Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Frowning Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grimacing Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Face with Big Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Face with Smiling Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Face with Sweat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Squinting Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hot Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hushed Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Kissing Face with Closed Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Kissing Face with Smiling Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Smilies3",
+      "name": "Smilies 3",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "GrinningFace.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Kissing Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Loudly Crying Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Lying Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Money-Mouth Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Nauseated Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Nerd Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Neutral Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Partying Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pensive Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Persevering Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pleading Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Relieved Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Rolling on the Floor Laughing.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sad but Relieved Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Saluting Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Shaking Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Shushing Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sleeping Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sleepy Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Slightly Frowning Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Slightly Smiling Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Halo.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Heart-Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Hearts.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Horns.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Open Hands.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Smiling Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Sunglasses.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face with Tear.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Smilies4",
+      "name": "Smilies 4",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "GrinningFace.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Alien Monster.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Alien.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Beating Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Biting Lip.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smirking Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sneezing Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Squinting Face with Tongue.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Star-Struck.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Thinking Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Tired Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Unamused Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Upside-Down Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Weary Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Winking Face with Tongue.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Winking Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Woozy Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Worried Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Yawning Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Zany Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Zipper-Mouth Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Smilies5",
+      "name": "Smilies 5",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "GrinningFace.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Black Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Blue Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Bomb.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Broken Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Brown Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Cat with Tears of Joy.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Cat with Wry Smile.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Clown Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Crying Cat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Ghost.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Goblin.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Green Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grey Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Cat with Smiling Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Grinning Cat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Growing Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hear-No-Evil Monkey.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Heart Decoration.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Heart Exclamation.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Heart on Fire.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Heart with Arrow.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Heart with Ribbon.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hundred Points.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Kissing Cat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Smilies6",
+      "name": "Smilies 6",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "GrinningFace.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Light Blue Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Love Letter.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Mending Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Ogre.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Orange Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pile of Poo.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pink Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Purple Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Red Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Revolving Hearts.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Robot.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "See-No-Evil Monkey.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Skull and Crossbones.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Skull.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Smiling Cat with Heart-Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sparkling Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Speak-No-Evil Monkey.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Two Hearts.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Weary Cat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "White Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Yellow Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Zzz.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "HandGestures1",
+      "name": "Hand Gestures 1",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "CallMeHand.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Anatomical Heart.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Backhand Index Pointing Down.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Backhand Index Pointing Left.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Backhand Index Pointing Right.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Backhand Index Pointing Up.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Bone.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Brain.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Ear with Hearing Aid.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Ear.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Eye.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Eyes.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Flexed Biceps.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Folded Hands.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Foot.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Heart Hands.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Index Pointing Up.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Index Pointing at the Viewer.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Left-Facing Fist.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Leftwards Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Leftwards Pushing Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Leg.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Mechanical Leg.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Middle Finger.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Mouth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Nail Polish.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Nose.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "OK Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Oncoming Fist.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Palms Up Together.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pinched Fingers.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "HandGestures2",
+      "name": "Hand Gestures 2",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "Horns.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "Call Me Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Clapping Hands.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Crossed Fingers.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hand with Fingers Splayed.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hand with Index Finger and Thumb Crossed.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Handshake.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Love-You Gesture.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Lungs.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Mechanical Arm.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Open Hands.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Palm Down Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Palm Up Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pinching Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Raised Back of Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Raised Fist.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Raised Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Raising Hands.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Right-Facing Fist.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Rightwards Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Rightwards Pushing Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Selfie.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sign of the Horns.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Thumbs Down.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Thumbs Up.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Tongue.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Tooth.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Victory Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Vulcan Salute.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Waving Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Writing Hand.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "static",
+      "name": "Static",
+      "publisher": "Saurabh Odukle",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "sodukle@gmail.com",
+      "publisher_website": "https://www.instagram.com/odukle.jpg",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "Anger Symbol.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Collision.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Dashing Away.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Dizzy.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Expressionless Face.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Eye in Speech Bubble.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Hole.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Kiss Mark.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Left Speech Bubble.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Pouting Cat.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Right Anger Bubble.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Speech Balloon.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Sweat Droplets.webp",
+          "emojis": [
+            "🤍"
+          ]
+        },
+        {
+          "image_file": "Thought Balloon.webp",
+          "emojis": [
+            "🤍"
+          ]
+        }
+      ]
+    }
+  ]
+}
